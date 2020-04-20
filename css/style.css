@@ -169,6 +169,7 @@ body:after {
       height: 300px !important; } }
 
 .bg-image {
+  /* background-image: url(/images/background-img.jpg); */
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -264,6 +265,11 @@ body:after {
     -moz-appearance: none;
     appearance: none;
     width: 100%; }
+
+   .Experience col-lg-4.h4 {
+    margin: auto;
+    margin-top: 16px;
+}
 
 /* Navbar */
 .site-navbar {
@@ -846,12 +852,6 @@ body:after {
   .blog_entry .more a:hover:before {
     background: #207561; }
 
-.form .form-control {
-  border: none;
-  border-radius: 0px;
-  border-bottom: 1px solid #eee; }
-  .form .form-control:active, .form .form-control:focus {
-    border-color: #000; }
 
 .footer {
   font-size: .9rem; }
@@ -870,3 +870,12 @@ body:after {
 .bg-light pt-5.img{
   display: block;
 }
+
+/* custom CSS */
+
+/* div.background-image-style{
+  background-image: url(/images/background-img.jpg);
+  background-size: cover;
+} */
+
+/* custom CSS end */
