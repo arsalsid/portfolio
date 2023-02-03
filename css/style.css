@@ -859,7 +859,6 @@ body:after {
 .footer {
   font-size: .9rem; }
   .footer .footer-title {
-    font-size: 1.1rem;
     margin-bottom: 30px; }
   .footer ul li {
     margin-bottom: 10px; }
@@ -873,6 +872,10 @@ body:after {
 .bg-light pt-5.img{
   display: block;
 }
+
+
+
+
 
 /* custom CSS */
 
