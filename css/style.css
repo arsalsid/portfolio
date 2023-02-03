@@ -867,7 +867,7 @@ body:after {
     .footer a:hover {
       color: #000; }
 .bg-light{
-  background-position: 
+  background-position: none;
 }
 .bg-light pt-5.img{
   display: block;
